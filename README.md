@@ -19,22 +19,22 @@ This guide walks you through installing **ComfyUI** on **pinokio**, with detaile
 
 ## Step 1: Download Pinocchio OS
 1. Open Google and search for "pinokio".
-2. Go to the [pinokio Official Website]([https://www.pinocchioos.com](https://program.pinokio.computer/#/?id=install)).
+2. Go to the [pinokio Official Website](https://program.pinokio.computer/#/?id=install)
 3. Click on the **Download** button and select the version for your system:
    - **Windows**: Click **Download for Windows**.
    - **Mac**: Click **Download for Mac**.
 
-![Pinocchio OS Download](path_to_image/pinocchio_os_download.png)
+![Pinocchio OS Download](https://github.com/Ai-Haris/ComfyUI-Installation-Guide/blob/main/image_2024-09-08_155610694.png)
 
-## Step 2: Install Pinocchio OS
+## Step 2: Install pinokio
 1. Extract the downloaded zip folder.
 2. Double-click the installer to start the installation.
-3. Follow the on-screen instructions, and once complete, the **Pinocchio OS** icon will appear on your desktop.
+3. Follow the on-screen instructions, and once complete, the **pinokio** icon will appear on your desktop.
 
-![Pinocchio OS Icon](path_to_image/pinocchio_os_icon.png)
+![Pinocchio OS Icon](https://github.com/Ai-Haris/ComfyUI-Installation-Guide/blob/main/image.png)
 
-## Step 3: Set Up Pinocchio OS
-1. Open **Pinocchio OS** by clicking its icon.
+## Step 3: Set Up pinokio
+1. Open **pinokio** by clicking its icon.
 2. Navigate to **Settings** and choose the directory where Pinocchio apps will be installed.
 
 ## Step 4: Install ComfyUI
@@ -43,13 +43,13 @@ This guide walks you through installing **ComfyUI** on **pinokio**, with detaile
 3. Press the green **Download** button (highlighted in lime color).
 4. Click on the **Install** button to start the installation.
 
-![ComfyUI Discovery](path_to_image/comfyui_discovery.png)
+![ComfyUI Discovery](https://github.com/Ai-Haris/ComfyUI-Installation-Guide/blob/main/image_2024-09-08_155505412.png)
 
 ## Step 5: Download CUDA and Other Files
 1. When prompted, click **OK**.
 2. Press the **Download** button to download **CUDA** and other necessary files.
 
-![CUDA Download](path_to_image/cuda_download.png)
+![CUDA Download](https://github.com/Ai-Haris/ComfyUI-Installation-Guide/blob/main/image_2024-09-08_155410738.png)
 
 ## Step 6: Complete the Installation
 1. Once the download is complete, **ComfyUI** will be installed successfully.
@@ -58,7 +58,7 @@ This guide walks you through installing **ComfyUI** on **pinokio**, with detaile
 1. Load the model in **ComfyUI**.
 2. Generate a simple image to ensure the installation was successful.
 
-![Generated Image](path_to_image/generated_image.png)
+![Generated Image](https://github.com/Ai-Haris/ComfyUI-Installation-Guide/blob/main/image_2024-09-08_155258088.png)
 
 ## Contributing
 Contributions to improve the guide or add new features are welcome. Please use the standard GitHub workflow for contributing.
