@@ -1,6 +1,8 @@
 # ComfyUI Installation Guide for pinokio
-Youtube link: [Watchout].(https://youtu.be/oypUzkV1i-8)
+
 Welcome to the **ComfyUI Installation Guide for pinokio**! This repository provides a detailed, step-by-step tutorial for installing **ComfyUI** on **pinokio**. Follow these instructions to set up **ComfyUI** smoothly and efficiently.
+
+Youtube link: [Watchout].(https://youtu.be/oypUzkV1i-8)
 
 ## Table of Contents
 1. [Introduction](#introduction)
